@@ -1,0 +1,14 @@
+{
+  "name": "socketdemo",
+  "version": "1.0.0",
+  "description": "Sime demo that creates a server and communicates with client via sockets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhamed Ahmatović",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.19.1"
+  }
+}
